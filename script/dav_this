@@ -48,7 +48,7 @@ The following options are available:
 
 =item --port PORT
 
-Start the FTP server on a specific C<PORT>. Default is 4242.
+Start the server on a specific C<PORT>. Default is 4242.
 
 =item --help
 
